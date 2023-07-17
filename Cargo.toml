@@ -8,7 +8,7 @@ description = "A benchmark library for Rust with inspiration from Go benchmarkin
 license = "Apache-2.0"
 repository = "https://github.com/eternal-flame-AD/gbenchmark"
 keywords = ["benchmark", "timing", "performance"]
-categories = ["development-tools"]
+categories = ["development-tools", "development-tools::profiling"]
 readme = "README.md"
 
 
