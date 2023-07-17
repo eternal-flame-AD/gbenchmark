@@ -1,6 +1,6 @@
 # gbenchmark
 
-A benchmark library for Rust.
+A benchmark library for Rust with inspiration from Go benchmarking.
 
 ## Concepts
 

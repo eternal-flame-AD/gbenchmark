@@ -3,6 +3,15 @@ name = "gbenchmark"
 version = "0.1.0"
 edition = "2021"
 
+authors = ["eternal-flame-AD"]
+description = "A benchmark library for Rust with inspiration from Go benchmarking."
+license = "Apache-2.0"
+repository = "https://github.com/eternal-flame-AD/gbenchmark"
+keywords = ["benchmark", "timing", "performance"]
+categories = ["development-tools"]
+readme = "README.md"
+
+
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
